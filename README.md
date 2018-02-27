@@ -6,3 +6,4 @@ Python
 Linux
 我计划用这个做学习笔记
 每日code代码
+现在是练习使用中使用的是edit
