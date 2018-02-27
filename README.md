@@ -4,3 +4,5 @@ I will learn these knowledges.
 Java
 Python
 Linux
+我计划用这个做学习笔记
+每日code代码
